@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.nav a{
+    margin-right: 90px;
+    text-decoration: none;
+    color: black;
+    
+   
+
+}
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 90px;
+}
+.stn1{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-top: 50px;
+
+    
+}
+#p1{
+    font-size: 50px;
+    width: 40px;
+    margin-right: 780px;
+}
+
+
+
+    
